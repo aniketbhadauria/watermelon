@@ -89,10 +89,12 @@ justify-content: center;
 }
 .btn{
     margin-top: 20px;
+    gap: 130px;
     display: flex;
     justify-content: center;
     align-items: center;
     border: white;
+    flex-direction: column;
  
 
 }

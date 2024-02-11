@@ -655,15 +655,15 @@ margin-bottom: 36px;
             margin-bottom: 5vw;
         }
 
-        #part-6-btm{
-            width: 875px;
+       #part-6-btm{
             font-family: Lato;
             font-size: 26px;
             font-weight: 500;
             line-height: 50px;
             letter-spacing: 0px;
-            
-
+            text-align: center;
+            margin: 0 auto;
+            width: 80%;
         }
         #part-6 .text-container{
             display: flex;
